@@ -1,0 +1,7 @@
+source_path: K:\Example_Photos\
+
+file_types:
+  - RAF
+  - JPG
+
+destination_path: D:\Data_Backup\
